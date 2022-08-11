@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "timestamp": "1659827336361",
+    "nombre": "Producto1",
+    "descripcion": "Productos de ejemplo para creacion de backend primera entrega ",
+    "codigo": "prod001",
+    "foto": "https://cdn2.iconfinder.com/data/icons/round-varieties/60/Rounded_-_High_Ultra_Colour04_-_Gameboy-128.png",
+    "precio": "$3500",
+    "stock": "7"
+  },
+  {
+    "id": "2",
+    "timestamp": "1659827336361",
+    "nombre": "Gameboy_modificacion_put_#",
+    "descripcion": "tontera perdon no 3 es tontera",
+    "codigo": "prod00sdasdasdasdasdasdasd6_3",
+    "foto": "https://cdn1.iconfinder.com/data/icons/kids-toys-filled-color/300/16425287Untitled-3-128.png",
+    "precio": "$30asdasdasdasd0_3",
+    "stock": "X1231_3"
+  },
+  {
+    "id": "3",
+    "timestamp": "1659827336361",
+    "nombre": "Producto3",
+    "descripcion": "Productos de ejemplo para creacion de backend primera entrega ",
+    "codigo": "prod003",
+    "foto": "https://cdn2.iconfinder.com/data/icons/round-varieties/60/Rounded_-_High_Ultra_Colour04_-_Gameboy-128.png",
+    "precio": "$3500",
+    "stock": "2"
+  },
+  {
+    "id": "4",
+    "timestamp": "1659827336361",
+    "nombre": "Producto4",
+    "descripcion": "Productos de ejemplo para creacion de backend primera entrega ",
+    "codigo": "prod004",
+    "foto": "https://cdn2.iconfinder.com/data/icons/round-varieties/60/Rounded_-_High_Ultra_Colour04_-_Gameboy-128.png",
+    "precio": "$3500",
+    "stock": "5"
+  },
+  {
+    "id": 5,
+    "timestamp": 1659975607089,
+    "nombre": "pelota modificada",
+    "descripcion": "pelota geneticamente modificada",
+    "codigo": "prod005",
+    "foto": "https://cdn1.iconfinder.com/data/icons/kids-toys-filled-color/300/16425287Untitled-3-128.png",
+    "precio": "$300",
+    "stock": "1"
+  }
+]
